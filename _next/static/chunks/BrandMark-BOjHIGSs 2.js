@@ -1,0 +1,1 @@
+import{i as e}from"./framework-BgSIrAUN.js";var t=e();function n(){return(0,t.jsxs)(`span`,{className:`brand-mark`,"aria-hidden":`true`,children:[(0,t.jsx)(`i`,{className:`brand-mark__cell brand-mark__cell--a`}),(0,t.jsx)(`i`,{className:`brand-mark__cell brand-mark__cell--b`}),(0,t.jsx)(`i`,{className:`brand-mark__new`})]})}export{n as t};

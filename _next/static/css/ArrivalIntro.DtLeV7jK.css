@@ -1,0 +1,1 @@
+.arrival-intro{z-index:150;opacity:1;background:#0d191c;transition:opacity 1.2s;position:fixed;inset:0}.arrival-intro.is-leaving{opacity:0;pointer-events:none}.arrival-intro__film{background:#0d191c;border:0;width:100%;height:100%;display:block}body:has(.arrival-intro[open]){overflow:hidden}
